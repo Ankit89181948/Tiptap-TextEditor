@@ -1,8 +1,22 @@
-# React + Vite
+# Text Editor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and powerful text editor built with React.js, Bootstrap, Material UI, and TipTap. It allows users to create and format text documents with an intuitive and user-friendly interface.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Text Formatting**: Bold, Italic, Underline, Strikethrough
+- **Font Styles**: Change font size, family, and color
+- **Undo/Redo**: Revert or reapply changes
+- some other added extensions like add images,youtube link,highlight...
+
+## Technologies Used
+
+- **Frontend**: React.js
+- **UI Libraries**: Bootstrap, Material UI
+- **Text Editor**: TipTap
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
