@@ -14,9 +14,3 @@ A simple and powerful text editor built with React.js, Bootstrap, Material UI, a
 - **Frontend**: React.js
 - **UI Libraries**: Bootstrap, Material UI
 - **Text Editor**: TipTap
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
